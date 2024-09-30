@@ -1,2 +1,2 @@
-# CSCI-385-ML-
+# CSCI-385-ML
 Capstone Course Beloit College
