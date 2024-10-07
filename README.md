@@ -1,7 +1,7 @@
 # CSCI-385-ML
 Capstone Course Beloit College
 
-# Machine Learning Projects on GTSRB, MNIST, and Housing Price Prediction
+# Machine Learning MLP Model on GTSRB, MNIST, and Housing Price Classification and Prediction.
 
 This repository contains three machine learning projects demonstrating the use of neural networks with PyTorch on different datasets:
 
