@@ -43,8 +43,8 @@ This repository contains three machine learning projects demonstrating the use o
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/Princeu3/CSCI-385-ML.git
+   cd CSCI-385-ML
 
 2. **Install the required packages:**
 
@@ -63,4 +63,7 @@ The German Traffic Sign Recognition Benchmark (GTSRB) dataset contains images of
 **Dataset:**
 
 https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
+
+**Train & Test Loss, Final Accuracy**
+![Train Loss: 0.1866, Test Loss: 0.9201, 84.30% Accuracy](image_url)
 
