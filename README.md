@@ -65,5 +65,5 @@ The German Traffic Sign Recognition Benchmark (GTSRB) dataset contains images of
 https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
 
 **Train & Test Loss, Final Accuracy**
-![Train Loss: 0.1866, Test Loss: 0.9201, 84.30% Accuracy]([image_url](https://github.com/Princeu3/CSCI-385-ML/blob/main/GTSRB%20Visualization.png))
+![Train Loss: 0.1866, Test Loss: 0.9201, 84.30% Accuracy]([(https://github.com/Princeu3/CSCI-385-ML/blob/main/GTSRB%20Visualization.png)])
 
