@@ -20,7 +20,6 @@ This repository contains three machine learning projects demonstrating the use o
   - [2. MNIST Dataset - Handwritten Digit Recognition](#2-mnist-dataset---handwritten-digit-recognition)
   - [3. Housing Price Dataset - Housing Price Prediction](#3-housing-price-dataset---housing-price-prediction)
 - [Results](#results)
-- [License](#license)
 - [Acknowledgments](#acknowledgments)
 - [Contact](#contact)
 - [Dependencies](#dependencies)
@@ -38,3 +37,26 @@ This repository contains three machine learning projects demonstrating the use o
 - NumPy
 - Matplotlib
 - Other dependencies as specified in each project
+
+## Installation
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/yourusername/your-repo-name.git
+   cd your-repo-name
+
+2. **Install the required packages:**
+
+   pip install -r requirements.txt
+
+
+## Projects
+
+### 1. GTSRB Dataset - Traffic Sign Classification
+
+**Description:**
+
+The German Traffic Sign Recognition Benchmark (GTSRB) dataset contains images of 43 different types of traffic signs. The goal is to classify images into their respective traffic sign categories using a Multi-layer Perceptron (MLP)
+
+
