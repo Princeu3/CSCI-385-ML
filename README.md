@@ -60,7 +60,7 @@ https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
 **Train Loss: 0.1866, Test Loss: 0.9201, Accuracy: 84.30%**
 ![My Image](./GTSRB_Visualization.png)
 
-### 2. MNIST Dataset - Hand Written Classification
+### 2. MNIST Dataset - Handwritten Digit Recognition
 
 **Description:**
 
@@ -73,7 +73,7 @@ https://www.kaggle.com/datasets/hojjatk/mnist-dataset
 **Train Loss: 0.1726, Test Loss: 0.3494, Accuracy: 90.11%**
 ![My Image](./MNIST_Visualization.png)
 
-### 3. Housing Price Dataset - Housing Price Dataset
+### 3. Housing Price Dataset - Housing Price Prediction
 
 **Description:**
 
