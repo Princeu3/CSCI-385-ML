@@ -5,8 +5,8 @@ Capstone Course Beloit College
 
 This repository contains three machine learning projects demonstrating the use of neural networks with PyTorch on different datasets:
 
-1. **GTSRB Dataset**: Traffic sign classification using a Convolutional Neural Network (CNN).
-2. **MNIST Dataset**: Handwritten digit recognition using a CNN.
+1. **GTSRB Dataset**: Traffic sign classification using a Multilayer Perceptron (MLP).
+2. **MNIST Dataset**: Handwritten digit recognition using a Multilayer Perceptron (MLP).
 3. **Housing Price Dataset**: Housing price prediction using a Multilayer Perceptron (MLP).
 
 ---
