@@ -87,6 +87,7 @@ Target: Median house value.
 
 **Test MSE: 0.2645
 Test R^2 Score: 0.7982**
-![My Image](./HPD_Visualization.png)
+![My Image](./HPD1_Visualization.png)
+![My Image](./HPD2_Visualization.png)
 
 
