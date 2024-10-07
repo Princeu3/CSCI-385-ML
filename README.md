@@ -19,13 +19,6 @@ This repository contains three machine learning projects demonstrating the use o
   - [1. GTSRB Dataset - Traffic Sign Classification](#1-gtsrb-dataset---traffic-sign-classification)
   - [2. MNIST Dataset - Handwritten Digit Recognition](#2-mnist-dataset---handwritten-digit-recognition)
   - [3. Housing Price Dataset - Housing Price Prediction](#3-housing-price-dataset---housing-price-prediction)
-- [Results](#results)
-- [Acknowledgments](#acknowledgments)
-- [Contact](#contact)
-- [Dependencies](#dependencies)
-- [Tips for Running the Scripts](#tips-for-running-the-scripts)
-- [Contributing](#contributing)
-
 ---
 
 ## Prerequisites
@@ -64,7 +57,36 @@ The German Traffic Sign Recognition Benchmark (GTSRB) dataset contains images of
 
 https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
 
-**Train & Test Loss, Final Accuracy**
+**Train Loss: 0.1866, Test Loss: 0.9201, Accuracy: 84.30%**
 ![My Image](./GTSRB_Visualization.png)
+
+### 2. MNIST Dataset - Hand Written Classification
+
+**Description:**
+
+The MNIST dataset consists of 70,000 images of handwritten digits (0-9). Each image is a 28x28 grayscale image. The task is to classify each image into the correct digit.
+
+**Dataset:**
+
+https://www.kaggle.com/datasets/hojjatk/mnist-dataset
+
+**Train Loss: 0.1726, Test Loss: 0.3494, Accuracy: 90.11%**
+![My Image](./MNIST_Visualization.png)
+
+### 3. Housing Price Dataset - Housing Price Dataset
+
+**Description:**
+
+The California Housing dataset contains information collected from the 1990 U.S. Census, which includes features like median income, house age, average number of rooms, etc. The goal is to predict the median house value using these features
+
+**Dataset:**
+
+Loading: The dataset is loaded using fetch_california_housing from scikit-learn.
+Features: 8 numerical features.
+Target: Median house value.
+
+**Test MSE: 0.2645
+Test R^2 Score: 0.7982**
+![My Image](./HPD_Visualization.png)
 
 
