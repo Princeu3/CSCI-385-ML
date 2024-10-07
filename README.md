@@ -48,6 +48,7 @@ This repository contains three machine learning projects demonstrating the use o
 
 2. **Install the required packages:**
 
+   ```bash
    pip install -r requirements.txt
 
 
@@ -59,4 +60,7 @@ This repository contains three machine learning projects demonstrating the use o
 
 The German Traffic Sign Recognition Benchmark (GTSRB) dataset contains images of 43 different types of traffic signs. The goal is to classify images into their respective traffic sign categories using a Multi-layer Perceptron (MLP)
 
+**Dataset:**
+
+https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
 
